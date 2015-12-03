@@ -20,5 +20,5 @@ learnyoumongo verify solution-08.js
 
 #### Usage
 ```
-learnyoumongo verify solution-08-async.js
+learnyoumongo verify solution-08-async.es6
 ```
